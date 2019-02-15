@@ -1,29 +1,24 @@
-# Freelancer
-
-* **Track:** _Common Core_
-* **Curso:** _Criando um site interativo_
-* **Unidad:** _Layout da Web com HTML & CSS_
-
-***
-
-Para completar este desafio, criamos um repositório boilerplate (template inicial) com todos os recursos necessários. Isso inclui imagens, estrutura de pastas e arquivos onde você irá escrever seu código.
+Desafio de replicar a página FREELANCER tendo como foco principal o Layout, estrutura e indentação.
 
 ## Fluxo de trabalho
 
 1. Faça um [**fork**](https://gist.github.com/ivandevp/1de47ae69a5e139a6622d78c882e1f74)
-   deste repositório.
+   deste repositório. CHECK!
 
 2. Em seguida você deverá **clonar** esse fork em seu computador. Lembre-se do comando `git clone` e de sua estrutura, que normalmente é essa:
 
    ```bash
    git clone https://github.com/<nome-de-usuario>/freelancer.git
    ```
+   CHECK!
 
 ## Objetivo
 
 O desafio consiste em replicar o site **Freelancer** e o resultado desejado é este:
 
 ![Freelancer Website](docs/fullpage.png)
+
+CHECK!
 
 ## Considerações
 
@@ -47,7 +42,7 @@ O desafio consiste em replicar o site **Freelancer** e o resultado desejado é e
 
 * Pode conferir o [site original](https://blackrockdigital.github.io/startbootstrap-freelancer/) para que tenha uma ideia do resultado final.
 
-  > Nota: o site original tem certos efeitos e funcionalidades que estão fora do alcance desse desafio. Mantenha o foco em obter um leiaute o mais próximo possível, usando o que aprendemos até agora :)
+  > Nota: o site original tem certos efeitos e funcionalidades que estão fora do alcance desse desafio. Mantenha o foco em obter um layout o mais próximo possível, usando o que aprendemos até agora :)
 
 ## Leve em consideração:
 

@@ -6,7 +6,7 @@
   background-color: #2c3e50;
   color: white;
   display:  inline-block;
-  width: 1691px;
+  width: 1668px;
   height: 100px;
   position: fixed;
   font-family: 'Montserrat', sans-serif;  
@@ -74,7 +74,7 @@
 
 #portfolio-titulo{
   font-family: 'Montserrat', sans-serif;
-  font-size: xx-large;
+  font-size: 50px;
   color: #2f3741;
 }
 
@@ -95,11 +95,11 @@ height: 100px;
   text-align: center;
   color: white;
   background-color: #18bc9c;
-  margin-top: 700px; 
+  margin-top: 750px; 
 }
 
 #about-titulo{
-  padding-top: 55px;
+  padding-top: 65px;
   font-size: 50px;
   font-family: 'Montserrat', sans-serif;
 }
